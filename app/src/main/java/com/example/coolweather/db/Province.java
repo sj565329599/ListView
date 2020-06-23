@@ -1,7 +1,7 @@
 package com.example.coolweather.db;
 
 import org.litepal.crud.DataSupport;
-
+//获取省的信息
 public class Province extends DataSupport {
 
     private int id;

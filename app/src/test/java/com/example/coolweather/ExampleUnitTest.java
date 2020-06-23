@@ -1,4 +1,4 @@
-package com.example.listview;
+package com.example.coolweather;
 
 import org.junit.Test;
 
